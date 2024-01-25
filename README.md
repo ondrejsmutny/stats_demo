@@ -1,6 +1,6 @@
 # StatS desktop application
 ## Application purpose
-StatS is application for automation of reports for Czech Statistical Bureau. Most of
+StatS is application for automation of reports to Czech Statistical Bureau. Most of
 private companies are obliged to fill and send those reports at certain time intervals.
 StatS helps to decrease time needed to fill reports in minutes instead of hours in
 case of manual filling. User chooses Excel file with accounting trial balance, StatS
